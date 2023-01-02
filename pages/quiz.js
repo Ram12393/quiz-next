@@ -26,10 +26,7 @@ function Quiz() {
     }
 
     const currentQuestinAnswer = (param) => {
-        //restrict same element push
-        // if(!answer.find(el=>el=== param)){
         setAnswer([...answer, param]);
-        // }
     }
 
     useEffect(() => {

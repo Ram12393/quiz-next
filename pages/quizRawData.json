@@ -1,0 +1,14 @@
+[
+    {
+        "question":"Who is favourite cricketer ?",
+        "options":["Dhoni","Kohli","Rohit", "Dhavan"]
+    },
+    {
+        "question":"Who is favourite Movie ?",
+        "options":["Kantara","RRR","Pushpa", "Dhoom"]
+    },
+    {
+        "question":"Who is favourite Place ?",
+        "options":["Tirumala","Kanipakam","Udipi","Munnar"]
+    }
+]
